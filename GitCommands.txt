@@ -1,3 +1,8 @@
+--------------------------------------Git-----------------------------
+git version
+git init
+git add .
+git commit -m "your meassage" 
 
 -----------------------GITHUB-----------------------------------------
 git remote add origin https://github.com/Suvadeep0709/JavaFSD_DEC_21.git
